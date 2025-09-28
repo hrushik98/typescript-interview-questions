@@ -1,4 +1,7 @@
 // We define the types for the function's parameter and its return value.
+
+// I wrote this function to understand ...........
+//hello 
 function greet(name: string): string {
   // If you tried to do math with 'name' (e.g., name * 2), TypeScript would show an error.
   return `Hello, ${name}!`;
